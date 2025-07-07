@@ -1,0 +1,12 @@
+Today 05 July(07) 2025, Started Hundread day ML projects challege.
+
+I will build 100 projects of ML after 100th day(October 13, 2025).
+Exciting😝
+
+
+
+
+
+Project_1:
+    ডাটাকে র‌্যন্ডমলি তৈরি করবো এবং সেটাকে Unsupervised Learning ব্যাবহার করে Clustering করবো।
+    
