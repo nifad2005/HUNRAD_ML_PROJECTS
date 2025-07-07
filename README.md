@@ -1,5 +1,4 @@
 100 Days, 100 ML Projects Mission.
-Welcome to the "100 Days, 100 ML Projects Mission"!
 
 Under this mission, I am undertaking 100 Machine Learning projects in 100 days.
 This journey began on July 5, 2025, and is set to conclude on October 13, 2025.
